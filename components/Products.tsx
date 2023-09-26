@@ -11,18 +11,19 @@ import { useSelector } from "react-redux";
 
 
 const Products =  () => {
-  const [searching, setSearching] = useState([])
+  const [searching, setSearching] = useState<Products[]>([]);
+
   const searchString = useSelector((state: StateProps) => state.shopping.searchString);
 
   useEffect(() => {
     const fetchData = async () => {
       if (searchString !== "") {
         const searchResults = await searchProducts(searchString);
-        setSearching(searchResults); // Assuming setSearching should store an array
+        setSearching(searchResults); // Assigning an array of products to searching
         console.log(searchResults);
       } else {
         const products = await getProducts();
-        setSearching(products); // Assuming setSearching should store an array
+        setSearching(products); // Assigning an array of products to searching
       }
     };
     fetchData();
