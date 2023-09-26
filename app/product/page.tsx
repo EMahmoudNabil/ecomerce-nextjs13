@@ -1,6 +1,6 @@
 import Container from "@/components/Container";
 import { getSingleProudct, getTrendingProducts } from "@/helpers";
-import { Products } from "../../../type";
+import { Products } from "../../type";
 import ProductsData from "@/components/ProductsData";
 import SignleProduct from "@/components/SignleProduct";
 
