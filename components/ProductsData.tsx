@@ -52,10 +52,10 @@ const ProductsData = ({ item }: ItemProps) => {
             </div>
             <div className="flex items-center gap-x-2">
               <p className="text-slate-500 line-through text-sm">
-                <FormattedPrice amount={item?.oldPrice} />
+              <FormattedPrice amount={(item?.oldPrice || 0)} />
               </p>
               <p className="font-semibold">
-                <FormattedPrice amount={item?.price} />
+                <FormattedPrice amount={item?.price || 0} />
               </p>
             </div>
           </div>

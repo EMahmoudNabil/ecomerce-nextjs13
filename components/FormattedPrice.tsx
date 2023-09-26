@@ -1,5 +1,5 @@
 interface Amount {
-  amount: number;
+  amount: string | number;
 }
 
 const FormattedPrice = ({ amount }: Amount) => {
