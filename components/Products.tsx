@@ -14,20 +14,19 @@ const Products =  () => {
   const [searching, setSearching] = useState([])
   const searchString = useSelector((state: StateProps) => state.shopping.searchString);
 
-  useEffect(  () => {
-    const get = async () => {
-      if(searching !== ""){
-        const search= await searchProducts(searchString)
-        setSearching(search)
-        console.log(searching) }
-        else{
-          const products =  await getProducts();
-          setSearching(products)
-        }
-  }
-  get();
-    
-    }, [searchString]);
+  useEffect(() => {
+    const fetchData = async () => {
+      if (searchString !== "") {
+        const searchResults = await searchProducts(searchString);
+        setSearching(searchResults); // Assuming setSearching should store an array
+        console.log(searchResults);
+      } else {
+        const products = await getProducts();
+        setSearching(products); // Assuming setSearching should store an array
+      }
+    };
+    fetchData();
+  }, [searchString]);
 
 
 
