@@ -7,9 +7,9 @@ export const productData = [
     price: 150,
     description:
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam.",
-    category: "women",
+    category: "man",
     image:
-      "https://img.freepik.com/free-photo/portrait-beautiful-face-young-woman-with-long-brown-hair_186202-4331.jpg?size=626&ext=jpg&ga=GA1.1.453157835.1694346094&semt=sph",
+      "https://img.freepik.com/free-photo/business-man-talking-phone-outside_1303-10315.jpg?ga=GA1.1.108189684.1733168263&semt=ais_hybrid",
     rating: 4,
     quantity: 1,
   },
@@ -21,9 +21,9 @@ export const productData = [
     price: 65,
     description:
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam.",
-    category: "women",
+    category: "man",
     image:
-      "https://img.freepik.com/free-photo/studio-close-up-portrait-young-fresh-blonde-woman-brown-straw-poncho-wool-black-trendy-hat-round-glasses-looking-camera-green-leather-had-bag_273443-1121.jpg?size=626&ext=jpg&ga=GA1.2.453157835.1694346094&semt=sph",
+      "https://img.freepik.com/free-photo/funny-smiling-hipster-handsome-man-stylish-summer-white-suit-posing-street-sunglasses_158538-7916.jpg?ga=GA1.1.108189684.1733168263&semt=ais_hybrid",
     rating: 3,
     quantity: 1,
   },
@@ -37,7 +37,7 @@ export const productData = [
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam.",
     category: "women",
     image:
-      "https://img.freepik.com/free-photo/young-woman-fluffy-jacket-red-sunglasses-looking-into-camera_197531-15044.jpg?size=626&ext=jpg&ga=GA1.2.453157835.1694346094&semt=sph",
+      "https://img.freepik.com/free-photo/woman-purple-blue-wearing-purple-scarf-purple-scarf_1340-44256.jpg?ga=GA1.1.108189684.1733168263&semt=ais_hybrid",
     rating: 3,
     quantity: 1,
   },
@@ -51,7 +51,7 @@ export const productData = [
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam.",
     category: "women",
     image:
-      "https://img.freepik.com/free-photo/fashionable-woman-pink-coat-black-hat-posing_273443-2429.jpg?size=626&ext=jpg&ga=GA1.1.453157835.1694346094&semt=sph",
+      "https://img.freepik.com/free-photo/two-women-hijab-stand-front-night-sky-with-moon-background_1340-37722.jpg?ga=GA1.1.108189684.1733168263&semt=ais_hybrid",
     rating: 3,
     quantity: 1,
   },
@@ -65,7 +65,7 @@ export const productData = [
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam.",
     category: "women",
     image:
-      "https://img.freepik.com/free-photo/curly-woman-elegant-hat-looking-camera-studio-shot-fascinating-blonde-girl-striped-shirt_197531-13243.jpg?size=626&ext=jpg&ga=GA1.2.453157835.1694346094&semt=ais",
+      "https://img.freepik.com/free-photo/woman-hijab-purple-gold-scarf_1340-44612.jpg?ga=GA1.1.108189684.1733168263&semt=ais_hybrid",
     rating: 5,
     quantity: 1,
   },
@@ -93,7 +93,7 @@ export const productData = [
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam.",
     category: "women",
     image:
-      "https://images.pexels.com/photos/2010812/pexels-photo-2010812.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://img.freepik.com/free-photo/woman-pink-hijab-stands-front-mosque_1340-40461.jpg?t=st=1733172482~exp=1733176082~hmac=36e476b515e75067fc9a6c4c4b90cda1da42266efa5b3f1c173cf33d21b2166e&w=740",
     rating: 2,
     quantity: 1,
   },
@@ -107,7 +107,7 @@ export const productData = [
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam.",
     category: "women",
     image:
-      "https://images.pexels.com/photos/2233703/pexels-photo-2233703.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://img.freepik.com/free-photo/woman-maroon-hijab-stands-front-mosque_1340-40451.jpg?t=st=1733172484~exp=1733176084~hmac=69eb8d5eb8a7d8661efbbf3f404072a73985e433e6a02aa3f6be7c4930680e1c&w=740",
     rating: 3,
     quantity: 1,
   },
@@ -121,7 +121,7 @@ export const productData = [
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam.",
     category: "women",
     image:
-      "https://images.pexels.com/photos/2065195/pexels-photo-2065195.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://img.freepik.com/free-photo/woman-blue-hijab-with-gold-trim-gold-necklace_1340-44625.jpg?ga=GA1.1.108189684.1733168263&semt=ais_hybrid",
     rating: 3,
     quantity: 1,
   },
@@ -149,7 +149,7 @@ export const productData = [
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam.",
     category: "women",
     image:
-      "https://img.freepik.com/premium-photo/woman-yellow-shirt-with-word-love-it_873925-155207.jpg?size=626&ext=jpg&ga=GA1.2.453157835.1694346094&semt=ais",
+      "https://img.freepik.com/free-photo/international-day-education-celebration_23-2150931164.jpg?ga=GA1.1.108189684.1733168263&semt=ais_hybrid",
     rating: 4,
     quantity: 1,
   },
@@ -177,7 +177,7 @@ export const productData = [
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam.",
     category: "women",
     image:
-      "https://images.pexels.com/photos/3672825/pexels-photo-3672825.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://img.freepik.com/free-photo/medium-shot-islamic-woman-lifestyle_23-2151064008.jpg?ga=GA1.1.108189684.1733168263&semt=ais_hybrid",
     rating: 4,
     quantity: 1,
   },
@@ -205,7 +205,7 @@ export const productData = [
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam.",
     category: "women",
     image:
-      "https://images.pexels.com/photos/2738792/pexels-photo-2738792.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://img.freepik.com/free-photo/front-view-islamic-woman-outdoors_23-2151064074.jpg?ga=GA1.1.108189684.1733168263&semt=ais_hybrid",
     rating: 4,
     quantity: 1,
   },
@@ -233,7 +233,7 @@ export const productData = [
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam.",
     category: "women",
     image:
-      "https://images.pexels.com/photos/2010925/pexels-photo-2010925.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://img.freepik.com/free-photo/front-view-islamic-woman-hiking_23-2151064078.jpg?ga=GA1.1.108189684.1733168263&semt=ais_hybrid",
     rating: 3,
     quantity: 1,
   },
@@ -247,7 +247,7 @@ export const productData = [
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam.",
     category: "women",
     image:
-      "https://images.pexels.com/photos/3054973/pexels-photo-3054973.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://img.freepik.com/free-photo/medium-shot-woman-posing-with-flowers_23-2150725596.jpg?ga=GA1.1.108189684.1733168263&semt=ais_hybrid",
     rating: 4,
     quantity: 1,
   },
@@ -259,9 +259,9 @@ export const productData = [
     price: 170,
     description:
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam.",
-    category: "women",
+    category: "man",
     image:
-      "https://images.pexels.com/photos/2693849/pexels-photo-2693849.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://img.freepik.com/free-photo/vertical-shot-handsome-male-with-black-coat-watch_181624-38993.jpg?ga=GA1.1.108189684.1733168263&semt=ais_hybrid",
     rating: 3,
     quantity: 1,
   },
@@ -275,7 +275,7 @@ export const productData = [
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam.",
     category: "women",
     image:
-      "https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://img.freepik.com/free-photo/medium-shot-islamic-woman-lifestyle_23-2151064027.jpg?ga=GA1.1.108189684.1733168263&semt=ais_hybrid",
     rating: 5,
     quantity: 1,
   },
@@ -291,7 +291,7 @@ export const trendingProducts = [
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam.",
     category: "women",
     image:
-      "https://img.freepik.com/free-photo/portrait-beautiful-face-young-woman-with-long-brown-hair_186202-4331.jpg?size=626&ext=jpg&ga=GA1.1.453157835.1694346094&semt=sph",
+      "https://img.freepik.com/free-photo/medium-shot-woman-having-fun-city_23-2150725721.jpg?ga=GA1.1.108189684.1733168263&semt=ais_hybrid",
     rating: 4,
     quantity: 1,
   },
@@ -305,7 +305,7 @@ export const trendingProducts = [
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam.",
     category: "women",
     image:
-      "https://img.freepik.com/free-photo/studio-close-up-portrait-young-fresh-blonde-woman-brown-straw-poncho-wool-black-trendy-hat-round-glasses-looking-camera-green-leather-had-bag_273443-1121.jpg?size=626&ext=jpg&ga=GA1.2.453157835.1694346094&semt=sph",
+      "https://img.freepik.com/free-photo/medium-shot-islamic-woman-boat_23-2151064085.jpg?ga=GA1.1.108189684.1733168263&semt=ais_hybrid",
     rating: 3,
     quantity: 1,
   },
@@ -317,9 +317,9 @@ export const trendingProducts = [
     price: 55.99,
     description:
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam.",
-    category: "women",
+    category: "man",
     image:
-      "https://img.freepik.com/free-photo/young-woman-fluffy-jacket-red-sunglasses-looking-into-camera_197531-15044.jpg?size=626&ext=jpg&ga=GA1.2.453157835.1694346094&semt=sph",
+      "https://img.freepik.com/free-photo/young-stylish-handsome-man-suit-street_158538-10225.jpg?ga=GA1.1.108189684.1733168263&semt=ais_hybrid",
     rating: 3,
     quantity: 1,
   },
@@ -331,9 +331,9 @@ export const trendingProducts = [
     price: 50,
     description:
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non magni facili blanditiis molestias soluta eveniet illum accusantium eius mollitia eligendi, ex iste doloribus magnam.",
-    category: "women",
+    category: "man",
     image:
-      "https://img.freepik.com/free-photo/fashionable-woman-pink-coat-black-hat-posing_273443-2429.jpg?size=626&ext=jpg&ga=GA1.1.453157835.1694346094&semt=sph",
+      "https://img.freepik.com/free-photo/stylish-man-putting-hat_1153-1452.jpg?ga=GA1.1.108189684.1733168263&semt=ais_hybrid",
     rating: 3,
     quantity: 1,
   },
